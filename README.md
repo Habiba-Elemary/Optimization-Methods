@@ -26,13 +26,13 @@ Dependencies:
 Python 3.x
 matplotlib (only for the Graphical Method)
 
-Key Features
+Key Features:
 No External Libraries: All algorithms are implemented from scratch.
 Modular Code: Each method is implemented in a separate module for clarity and reusability.
 Test Cases: Includes test cases for each method to ensure correctness.
 Graphical Visualization: The Graphical Method includes plotting capabilities for better understanding.
 
-Contributing
+Contributing:
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
 License
